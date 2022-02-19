@@ -1,4 +1,4 @@
-# Music-Dialect-Classification-and-Clustering
+# ML-Based-Music-Dialect-Classification-and-Clustering
 This project contains four sections: 
 
 1- Introduction 
@@ -10,3 +10,24 @@ This project contains four sections:
 4- Clustering
 
 The dataset is extracted from 1373 persian folklore songs with five different dialects.
+
+Classification Algorithms:
+
+1- KNN
+
+2- Random Forest
+
+3- Gradient Boosting
+
+4- SVM
+
+5- MLP
+
+Clustering Algorithms:
+
+1- K-Means
+
+2- Hierarchical Clustering
+
+3- Gaussian Mixture
+
