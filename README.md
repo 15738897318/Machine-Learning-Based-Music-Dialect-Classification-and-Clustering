@@ -9,6 +9,7 @@ This project contains four sections:
 
 4- Clustering
 
+
 Classification Algorithms:
 
 1- KNN
@@ -21,6 +22,7 @@ Classification Algorithms:
 
 5- MLP
 
+
 Clustering Algorithms:
 
 1- K-Means
@@ -28,6 +30,7 @@ Clustering Algorithms:
 2- Hierarchical Clustering
 
 3- Gaussian Mixture
+
 
 
 The dataset is extracted from 1373 persian folklore songs with five different dialects.
