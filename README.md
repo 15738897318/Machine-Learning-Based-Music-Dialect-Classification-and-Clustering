@@ -1,4 +1,4 @@
-# Music-dialect-classification-and-clustering
+# Music-Dialect-Classification-and-Clustering
 This project contains four sections: 
 
 1- Introduction 
