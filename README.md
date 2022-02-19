@@ -9,8 +9,6 @@ This project contains four sections:
 
 4- Clustering
 
-The dataset is extracted from 1373 persian folklore songs with five different dialects.
-
 Classification Algorithms:
 
 1- KNN
@@ -31,3 +29,5 @@ Clustering Algorithms:
 
 3- Gaussian Mixture
 
+
+The dataset is extracted from 1373 persian folklore songs with five different dialects.
